@@ -9,7 +9,7 @@ sucess : function(data){
     $('#alert').html(data)
 },
     error: function(){
-        $('#alert').html('')
+        $('#alert').html('double ciao')
     },
 
 });
