@@ -7,6 +7,12 @@
     <title>Document</title>
 </head>
 <body>
-    
+
+<form>
+<input type="button" value="send">
+</form> 
+
+<script src="node_modules/jquery/dist/jquery.js"></script>   
+<script src="app.js"></script>
 </body>
 </html>
